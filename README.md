@@ -1,7 +1,7 @@
-# Weather Data
+# Traffic Accidents Data
 
 ## Overview
-This project is designed to import data from a weather API and save it in a CSV format. It aims to simplify data retrieval and storage processes for easier analysis and manipulation.
+This project is designed to import data from a Bing maps API and save it in a CSV format. It aims to simplify data retrieval and storage processes for easier analysis and manipulation.
 
 ## Requirements
 To run this project, you need the following dependencies:
